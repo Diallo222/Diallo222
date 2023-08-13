@@ -50,7 +50,7 @@
 </a>  
 <a href="https://almahadydiallo.netlify.app" target="blank">
 <img src="https://github.com/Diallo222/Diallo222/assets/82043049/6709ad1d-a117-4fb7-a8f5-05d0fc2f4ab2"
- alt=Portfolio style="margin-bottom: 5px;" />
+ alt=Portfolio style="margin-bottom: 5px;width:50px" />
 </a>  
 </div>  
   
