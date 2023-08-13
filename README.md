@@ -49,7 +49,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://almahadydiallo.netlify.app" target="blank">
-[![My - Portfolio](https://img.shields.io/badge/My-Portfolio-3E78B2?logo=Diallo)](https://almahadydiallo.netlify.app)
+  <img src=https://img.shields.io/badge/My-Portfolio-3E78B2?logo=Diallo alt=Portfolio style="margin-bottom: 5px;" />
 </div>  
   
 
