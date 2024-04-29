@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://www.jakubkonka.com/images/gof.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVoYzRxZnZ4bWU3Y3Jicm5iNnNlODZkeTV1MXlrMDhmbHEyc2VqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VDB85YZsrqMXx3c7DE/giphy.mp4)" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVoYzRxZnZ4bWU3Y3Jicm5iNnNlODZkeTV1MXlrMDhmbHEyc2VqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VDB85YZsrqMXx3c7DE/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
