@@ -53,8 +53,6 @@
 </a>
 </div>  
 
-  <script src="https://tryhackme.com/badge/3256536"></script>
-
 <br/>  
 
 <br/>  
