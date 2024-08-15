@@ -6,10 +6,10 @@
 ### <div align="center">I'm Almahady Diallo, a full-time front-end  developer 👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning Three Js , Node JS and kotlin  
+- 🌱 I’m currently learning Three Js , Node JS and Cyber Security
   
 
-- ⚠️ Remark : All my repos are private  
+- ⚠️ Remark : Most of my repos are private  
   
 
 <br/>  
