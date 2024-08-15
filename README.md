@@ -42,13 +42,7 @@
 
 ## Connect with me  
 
-<div align="center">
-<a href="https://www.facebook.com/almy.diallo" target="blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/d_hzrt" target="blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<div align="center">  
 <a href="https://almahadydiallo.netlify.app" target="blank">
   <img src=https://img.shields.io/badge/My-Portfolio-3E78B2?style=for-the-badge&logo=Diallo alt=Portfolio style="margin-bottom: 5px;" />
 </a>
