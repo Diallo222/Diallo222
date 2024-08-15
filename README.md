@@ -51,6 +51,10 @@
 </a>  
 <a href="https://almahadydiallo.netlify.app" target="blank">
   <img src=https://img.shields.io/badge/My-Portfolio-3E78B2?style=for-the-badge&logo=Diallo alt=Portfolio style="margin-bottom: 5px;" />
+</a>
+<a href="https://tryhackme.com/p/GeekYoda" target="blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/GeekYoda.png" alt="TryHackMe">
+</a>
 </div>  
   
 
