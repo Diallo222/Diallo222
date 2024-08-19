@@ -48,11 +48,11 @@
 </a>
   <br/> 
   <br/>   
- <a href="https://tryhackme.com/p/GeekYoda" target="blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/GeekYoda.png" alt="TryHackMe">
-</a>
 </div>  
 
 <br/>  
 
 <br/>  
+</div>
+
+<script src="https://tryhackme.com/badge/3256536"></script>
