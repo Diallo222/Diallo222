@@ -53,8 +53,7 @@
 </a>
 </div>  
 
-# 📊 GitHub Stats:
-![Diallo222's Stats](https://github-readme-stats.vercel.app/api?username=Diallo222&theme=dark&show_icons=true&hide_border=true&count_private=true)
+## 📊 GitHub Stats:
 ![Diallo222's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Diallo222&theme=dark&hide_border=true)
 ![Diallo222's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diallo222&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
