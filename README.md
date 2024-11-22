@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZ1YzBrYXFmdnJ4aXlpOHM0dWR4aThxa3huaDhiZGt0cWk2YmY3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0V5v3xmmfMWJdb0QSe/giphy.gif" align="center" style="width: 100%" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2luNmJqY3Mwa3Bmam80dThyOTZjdXI0MHlkZGlhOTg2ZWFjOXZpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dbtDDSvWErdf2/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Almahady Diallo, a Passionate Developer 👨‍💻 </div>  
+### <div align="center">I'm Almahady Diallo, a Passionate <mark>Programmer</mark> 👨‍💻 </div>  
   
 
 - 🌱 I’m currently learning Three Js , Node JS and Cyber Security
