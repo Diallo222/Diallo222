@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Almahady Diallo, a Passionate <mark>Programmer</mark> 👨‍💻 </div>  
+### <div align="center"><code>I'm Almahady Diallo, a Passionate Programmer 👨‍💻 </code></div>  
   
 
 - 🌱 I’m currently learning Three Js , Node JS and Cyber Security
