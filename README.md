@@ -4,18 +4,21 @@
   
 
 ### <div align="center"><code>I'm Almahady Diallo, a Passionate Programmer 👨‍💻 </code></div>  
-  
+---
 
-- 🌱 I’m currently learning Three Js , Node JS and Cyber Security
-  
+🌱 **Currently Learning**  
+- C# (My Favorite) and ASP.NET  
+- Three.js  
+- Node.js  
+- Cybersecurity
 
-- ⚠️ Remark : Most of my repos are private  
-  
+⚠️ **Note:** Most of my repositories are private.
 
+---
 <br/>  
 
 
-## Languages and Tools  
+## 🚀 Languages and Tools   
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -40,7 +43,7 @@
 <br/>    
 
 
-## Connect with me  
+## 🌐 **Connect with Me**  
 
 <div align="center">  
 <a href="https://almahadydiallo.netlify.app" target="blank">
@@ -48,7 +51,7 @@
 </a>
 </div>  
 
-## 📊 GitHub Stats:
+## 📊 **GitHub Stats**  
 ![Diallo222's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Diallo222&theme=dark&hide_border=true)
 ![Diallo222's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diallo222&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
