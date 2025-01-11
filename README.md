@@ -54,6 +54,7 @@
 ## 📊 **GitHub Stats**  
 ![Diallo222's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Diallo222&theme=dark&hide_border=true)
 ![Diallo222's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diallo222&theme=dark&show_icons=true&hide_border=true&layout=compact)
+[![trophy](https://github-trophies.vercel.app/?username=Diallo222&theme=onedark)](https://github.com/Diallo222/github-trophies)
 
 <br/>  
 
