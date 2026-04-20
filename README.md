@@ -46,7 +46,7 @@
 ## 🌐 **Connect with Me**  
 
 <div align="center">  
-<a href="https://almahadydiallo.netlify.app" target="blank">
+<a href="https://diallo.digital" target="blank">
   <img src=https://img.shields.io/badge/My-Portfolio-3E78B2?style=for-the-badge&logo=Diallo alt=Portfolio style="margin-bottom: 5px;" />
 </a>
 </div>  
