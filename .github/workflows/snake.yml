@@ -28,9 +28,22 @@ jobs:
 
       - name: Inline snake SVG colors for GitHub image proxy
         run: |
+          set -ex
           ls -la dist/
-          chmod -R a+rw dist || true
-          python3 .github/scripts/inline-snake-colors.py
+          svg="dist/github-snake-lime.svg"
+          test -f "$svg"
+          sed \
+            -e 's/var(--cs)/#a3e635/g' \
+            -e 's/var(--ce)/#21262d/g' \
+            -e 's/var(--c0)/#21262d/g' \
+            -e 's/var(--c1)/#0e4429/g' \
+            -e 's/var(--c2)/#006d32/g' \
+            -e 's/var(--c3)/#39d353/g' \
+            -e 's/var(--c4)/#7ee787/g' \
+            -e 's/var(--cb)/#1b1f230a/g' \
+            "$svg" > "$svg.tmp"
+          mv "$svg.tmp" "$svg"
+          ! grep -q 'var(--' "$svg"
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
