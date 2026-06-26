@@ -185,7 +185,7 @@ Three.js scenes, shaders, and scroll-driven stories — the line between design 
 ## `07` — Contribution Graph
 
 <p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diallo222/Diallo222/output/github-snake-green-dark.svg#gh-dark-mode-only" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diallo222/Diallo222/output/github-snake-lime.svg#gh-dark-mode-only" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diallo222/Diallo222/output/github-snake.svg#gh-light-mode-only" />
 </p>
 

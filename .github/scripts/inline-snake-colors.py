@@ -3,9 +3,9 @@ import sys
 import traceback
 from pathlib import Path
 
-path = Path("dist/github-snake-green-dark.svg")
+path = Path("dist/github-snake-lime.svg")
 if not path.exists():
-    candidates = list(Path("dist").glob("*green-dark*.svg"))
+    candidates = list(Path("dist").glob("*lime*.svg"))
     if not candidates:
         print("dist contents:", list(Path("dist").glob("*")) if Path("dist").exists() else "missing dist/")
         raise SystemExit(f"Missing snake SVG: {path}")
