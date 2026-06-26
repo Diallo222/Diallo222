@@ -27,7 +27,10 @@ jobs:
             dist/github-snake-green-dark.svg?color_snake=a3e635&color_dots=21262d,0e4429,006d32,39d353,7ee787
 
       - name: Inline snake SVG colors for GitHub image proxy
-        run: python3 .github/scripts/inline-snake-colors.py
+        run: |
+          ls -la dist/
+          chmod -R a+rw dist || true
+          python3 .github/scripts/inline-snake-colors.py
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
