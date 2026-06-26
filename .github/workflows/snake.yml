@@ -26,6 +26,20 @@ jobs:
             dist/github-snake.svg?palette=github-light&color_snake=ec0484&color_dots=ebedf0,9be9a8,40c463,30a14e,216e39
             dist/github-snake-green-dark.svg?color_snake=a3e635&color_dots=21262d,0e4429,006d32,39d353,7ee787
 
+      - name: Inline snake colors for GitHub image proxy
+        run: |
+          sed -i.bak \
+            -e 's/var(--cs)/#a3e635/g' \
+            -e 's/var(--ce)/#21262d/g' \
+            -e 's/var(--c0)/#21262d/g' \
+            -e 's/var(--c1)/#0e4429/g' \
+            -e 's/var(--c2)/#006d32/g' \
+            -e 's/var(--c3)/#39d353/g' \
+            -e 's/var(--c4)/#7ee787/g' \
+            -e 's/var(--cb)/#1b1f230a/g' \
+            dist/github-snake-green-dark.svg
+          rm -f dist/github-snake-green-dark.svg.bak
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
