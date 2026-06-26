@@ -26,7 +26,7 @@ jobs:
             dist/github-snake.svg?palette=github-light&color_snake=ec0484&color_dots=ebedf0,9be9a8,40c463,30a14e,216e39
             dist/github-snake-green-dark.svg?color_snake=a3e635&color_dots=21262d,0e4429,006d32,39d353,7ee787
 
-      - name: Prepare snake assets for GitHub README
+      - name: Inline snake SVG colors for GitHub image proxy
         run: |
           python3 << 'PY'
           from pathlib import Path
@@ -44,11 +44,10 @@ jobs:
           }
           for old, new in repl.items():
               text = text.replace(old, new)
+          if "var(--" in text:
+              raise SystemExit("Snake SVG still contains CSS variables after inlining")
           path.write_text(text)
           PY
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq librsvg2-bin
-          rsvg-convert -w 880 -o dist/github-snake-green-dark.png dist/github-snake-green-dark.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
