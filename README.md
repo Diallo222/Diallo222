@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=400&size=16&duration=3000&pause=1200&color=9C9C9C&center=true&vCenter=true&width=800&lines=Building+cinematic+interfaces+with+React%2C+Three.js+%26+GLSL;Web+%C2%B7+Mobile+%C2%B7+Creative+dev;Scroll+%E2%80%94+the+room+shifts+dimensions+on+its+own.;Most+repos+are+private+%E2%80%94+portfolio+says+more+%E2%86%92+diallo.digital" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=16&duration=3000&pause=1200&color=9C9C9C&center=true&vCenter=true&width=800&lines=Building+cinematic+interfaces+with+React%2C+Three.js+%26+GLSL;Web+%C2%B7+Mobile+%C2%B7+Creative+dev;Scroll+%E2%80%94+the+room+shifts+dimensions+on+its+own.;Most+repos+are+private+%E2%80%94+portfolio+says+more+%E2%86%92+diallo.digital" alt="Typing animation" />
 
 </div>
 
@@ -168,28 +168,18 @@ Three.js scenes, shaders, and scroll-driven stories — the line between design 
 
 ## `06` — GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Diallo222&show_icons=true&bg_color=0d1117&title_color=ec0484&text_color=d7d7d7&icon_color=00bcd4&border_radius=0&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Diallo222&theme=dark&background=0D1117&ring=EC0484&fire=EC0484&currStreakLabel=9C9C9C&sideLabels=9C9C9C&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diallo222&bg_color=0d1117&color=8b949e&line=00bcd4&point=ec0484&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Diallo222&show_icons=true&theme=transparent&bg_color=0c0c0c&title_color=ec0484&text_color=d7d7d7&icon_color=00bcd4&border_radius=0&hide_border=true" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diallo222&theme=transparent&background=0c0c0c&stroke=1a1a1a&ring=ec0484&fire=ec0484&currStreakNum=d7d7d7&sideNums=d7d7d7&currStreakLabel=9c9c9c&sideLabels=9c9c9c&dates=6f6f6f&hide_border=true" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diallo222&bg_color=0c0c0c&color=9c9c9c&line=00bcd4&point=ec0484&area=true&hide_border=true" alt="Activity Graph" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diallo222&layout=compact&theme=transparent&bg_color=0c0c0c&title_color=ec0484&text_color=d7d7d7&icon_color=00bcd4&border_radius=0&hide_border=true" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diallo222&layout=compact&bg_color=0d1117&title_color=ec0484&text_color=d7d7d7&icon_color=00bcd4&border_radius=0&hide_border=true" alt="Top Languages" />
+</p>
 
 <br/>
 
@@ -197,15 +187,10 @@ Three.js scenes, shaders, and scroll-driven stories — the line between design 
 
 ## `07` — Contribution Graph
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diallo222/Diallo222/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diallo222/Diallo222/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diallo222/Diallo222/output/github-snake-dark.svg" />
-</picture>
-
-</div>
+<p align="center">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diallo222/Diallo222/output/github-snake-dark.svg#gh-dark-mode-only" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diallo222/Diallo222/output/github-snake.svg#gh-light-mode-only" />
+</p>
 
 <br/>
 
