@@ -168,17 +168,14 @@ Three.js scenes, shaders, and scroll-driven stories — the line between design 
 
 ## `06` — GitHub Activity
 
+<sub>Contribution widgets match your GitHub profile calendar (enable <a href="https://github.com/settings/profile">private contributions</a> in settings). Public-only stat cards were removed — they undercount when most repos are private.</sub>
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Diallo222&show_icons=true&bg_color=0d1117&title_color=ec0484&text_color=d7d7d7&icon_color=00bcd4&border_radius=0&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Diallo222&theme=dark&background=0D1117&ring=EC0484&fire=EC0484&currStreakLabel=9C9C9C&sideLabels=9C9C9C&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Diallo222&theme=dark&background=0D1117&ring=EC0484&fire=EC0484&currStreakLabel=9C9C9C&sideLabels=9C9C9C&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true&count_private=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diallo222&bg_color=0d1117&color=8b949e&line=00bcd4&point=ec0484&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diallo222&layout=compact&bg_color=0d1117&title_color=ec0484&text_color=d7d7d7&icon_color=00bcd4&border_radius=0&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diallo222&bg_color=0d1117&color=8b949e&line=00bcd4&point=ec0484&area=true&hide_border=true&days=30" alt="Activity Graph" />
 </p>
 
 <br/>
