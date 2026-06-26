@@ -27,27 +27,7 @@ jobs:
             dist/github-snake-green-dark.svg?color_snake=a3e635&color_dots=21262d,0e4429,006d32,39d353,7ee787
 
       - name: Inline snake SVG colors for GitHub image proxy
-        run: |
-          python3 << 'PY'
-          from pathlib import Path
-          path = Path("dist/github-snake-green-dark.svg")
-          text = path.read_text()
-          repl = {
-              "var(--cs)": "#a3e635",
-              "var(--ce)": "#21262d",
-              "var(--c0)": "#21262d",
-              "var(--c1)": "#0e4429",
-              "var(--c2)": "#006d32",
-              "var(--c3)": "#39d353",
-              "var(--c4)": "#7ee787",
-              "var(--cb)": "#1b1f230a",
-          }
-          for old, new in repl.items():
-              text = text.replace(old, new)
-          if "var(--" in text:
-              raise SystemExit("Snake SVG still contains CSS variables after inlining")
-          path.write_text(text)
-          PY
+        run: python3 .github/scripts/inline-snake-colors.py
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
