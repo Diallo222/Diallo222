@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Almahady Diallo — Creative Developer" />
+<img src="https://raw.githubusercontent.com/Diallo222/Diallo222/main/assets/header.svg" width="100%" alt="Almahady Diallo - Creative Developer" />
 
 <br/>
 
