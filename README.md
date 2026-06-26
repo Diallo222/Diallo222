@@ -173,6 +173,10 @@ Three.js scenes, shaders, and scroll-driven stories — the line between design 
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Diallo222&theme=dracula&no-bg=true&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diallo222&bg_color=0d1117&color=8b949e&line=00bcd4&point=ec0484&area=true&hide_border=true&days=30" alt="Activity Graph" />
 </p>
 
